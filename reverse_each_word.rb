@@ -1,3 +1,4 @@
 def reverse_each_word
-  sentence = "Hell"
+  sentence = "Hello there, and how are you?"
+  puts sentence.each
 end
